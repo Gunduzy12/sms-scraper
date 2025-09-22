@@ -22,9 +22,9 @@ python -m pip install selenium pandas openpyxl pywhatkit
 ChromeDriver'ı [buradan](https://chromedriver.chromium.org/downloads) indirip, Chrome sürümüne uygun olanı proje klasörüne ekle.
 
 ## Kullanım
-1. `main.py` dosyasını çalıştırın:
+1. `gui_main.py` dosyasını çalıştırın:
     ```
-    python main.py
+    python gui_main.py
     ```
 2. Aranacak işletme türü ve şehir girin (örn: "kuaför", "İstanbul")
 3. Bilgiler çekilir, Excel'e yazılır ve WhatsApp mesajları gönderilir
